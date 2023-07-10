@@ -13,7 +13,6 @@
 
 
 .. toctree::
-   :numbered:
    :hidden:
    :maxdepth: 2
 
