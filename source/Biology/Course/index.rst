@@ -1,17 +1,10 @@
 
-计算机相关
+课程
 #######################################
 
 .. toctree::
+   :numbered:
    :glob:
    :maxdepth: 2
-   :hidden:
 
    */index
-
-
-
-
-
-
-

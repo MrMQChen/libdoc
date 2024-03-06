@@ -6,15 +6,9 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 生物学:
+   :caption: 理工科:
 
    Biology/index
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 计算机相关:
-
    ComputerScience/index
 
 .. toctree::

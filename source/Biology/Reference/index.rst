@@ -1,16 +1,13 @@
 
-计算机相关
+文献
 #######################################
 
 .. toctree::
+   :hidden:
    :glob:
    :maxdepth: 2
-   :hidden:
 
    */index
-
-
-
 
 
 
