@@ -9,7 +9,6 @@
 project = 'libdocument'
 copyright = '2023, MQChen'
 author = 'MQChen'
-release = 'alpha.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -40,9 +39,8 @@ numfig_secnum_depth = 2
 
 
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 html_static_path = ['_static']
 
 html_show_sourcelink = False
-html_show_sphinx = False
 
